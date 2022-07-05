@@ -1,0 +1,18 @@
+
+table > form{
+    width: 90%;
+    
+}
+
+.logo{
+    text-align: center;
+    color: darkgoldenrod;
+}
+
+.content{
+    color: brown;
+}
+
+.contact-info{
+    text-align: center;
+}
